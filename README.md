@@ -1,11 +1,12 @@
-### Hi there 👋
 
-<img src="https://github.com/werfree/werfree/blob/master/resume.jpg" width="70%" height="60%" />
+<p align="center">
+  <img align="center" src="https://github.com/werfree/werfree/blob/master/resume.jpg" width="70%" height="60%" />
+ </p>
 <!--
 **werfree/werfree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
