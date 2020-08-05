@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> ![resume.jpg](https://github.com/werfree/werfree/blob/master/resume.jpg=25*10)
+<img src="https://github.com/werfree/werfree/blob/master/resume.jpg" width="70%" height="60%" />
 <!--
 **werfree/werfree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
