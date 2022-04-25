@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img align="center" src="https://github.com/werfree/werfree/blob/master/resume.jpg" width="80%" height="70%" />
+  <img align="center" src="https://github.com/werfree/werfree/blob/master/Sayantan%20Ghosh.png" width="80%" height="50%" />
  </p>
 <!--
 **werfree/werfree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
