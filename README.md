@@ -17,7 +17,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  align="right"/> -->
+<img alt="Night Coding" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300" align="right"/> 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -53,7 +54,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=werfree&show_icons=true&locale=en&layout=compact&theme=radical" alt="werfree" /></p>
-
+<br/>
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werfree&theme=radical" alt="werfree" /></p>
  
