@@ -8,17 +8,16 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at RCC Institute of Information Technology.\
-✍️ &nbsp;I'm working as a Software Developer Intern at [BluCap](https://blucap.health/).\
+✍️ &nbsp;I'm working as a Specialist Programmer at [Infosys](https://www.infosys.com/).\
 🌱 &nbsp;I'm on track for learning more about Systems Design, Database Management and Backend Engineering.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at gsayantan01@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/12fFl6HACRGxFNDZp1_ktFyQyJqfbZZp-/view) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/19z6Gdy07eNq_3r6L9d5oXKT0eBonBfM8/view) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
-
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  align="right"/> -->
-<img alt="Night Coding" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300" align="right"/> 
+<img alt="Night Coding" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300" align="right"/>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -59,7 +58,7 @@
  
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=werfree&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=werfree&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <br/>
 
